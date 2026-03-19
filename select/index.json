@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "食べた愛",
   "base_artist": "aiko",
-  "createdAt": "2026-03-19T00:37:07.267364Z",
+  "createdAt": "2026-03-19T06:40:36.849407Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "aiko",
       "has_synced": false,
       "path": "select/pl_01_食べた愛_aiko.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "食べた愛",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/localdb_01_食べた愛_aiko.txt",
+      "repo_name": "CZLs8GuCq2U"
     }
   ]
 }
